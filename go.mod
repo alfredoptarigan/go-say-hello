@@ -1,3 +1,3 @@
-module github.com/alfredoptarigan/go-say-hello.git
+module github.com/alfredoptarigan/go-say-hello
 
 go 1.20
